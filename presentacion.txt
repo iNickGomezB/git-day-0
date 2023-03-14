@@ -1,3 +1,5 @@
 Presentacion: 
 Nicolas Gomez Barajas
 Edad: 24
+Ciudad: Bogota
+Estudiante en: BIT
